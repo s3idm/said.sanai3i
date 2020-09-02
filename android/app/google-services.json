@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535093795708",
+    "firebase_url": "https://sanai3i-4fb2b.firebaseio.com",
+    "project_id": "sanai3i-4fb2b",
+    "storage_bucket": "sanai3i-4fb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535093795708:android:d940d66445d60da1ebe2f9",
+        "android_client_info": {
+          "package_name": "com.fciproject.sanai3i"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535093795708-1ri4ac380cstf3m5ugle2qh0s3omboaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzEOYmNALXRhdE4eD5MSi9jT3GDIf_x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535093795708-1ri4ac380cstf3m5ugle2qh0s3omboaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
