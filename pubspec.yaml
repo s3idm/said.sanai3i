@@ -1,0 +1,56 @@
+name: sanai3i
+description: A new Flutter application.
+
+version: 1.0.1+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  firebase_core: ^0.5.0
+  firebase_auth: ^0.18.1+1
+  cloud_firestore: ^0.14.1+2
+  firebase_storage: ^4.0.1
+  geoflutterfire: ^2.2.1
+  rxdart: ^0.24.1
+  provider: ^4.0.5
+  url_launcher: any
+  image_picker:
+  fluttertoast: ^4.0.1
+  qr_flutter: ^3.2.0
+  qrscan: ^0.2.17
+  google_maps_flutter: ^0.5.27+1
+  location: ^3.0.2
+  animations: ^1.0.0+5
+  simple_animations: ^2.2.1
+  photo_view: ^0.9.2
+  cached_network_image: ^2.2.0+1
+  country_code_picker :
+  shared_preferences: ^0.5.10
+  flutter_localizations:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - langs/
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: fonts/Tajawal-Bold.ttf
+          weight: 700
+    - family: TajawalRegular
+      fonts:
+        - asset: fonts/Tajawal-Regular.ttf
+          weight: 700
